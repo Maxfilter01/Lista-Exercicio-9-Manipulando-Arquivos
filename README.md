@@ -5,3 +5,4 @@ Lista de exercício Nove em java, nesta lista está alguns algoritmos feitos com
 # Tecnologia utilizada: JDK.
 # Tecnologia utilizada: VSCODE.
 # Tecnologia utilizada: JAVA.
+Matheus de Paula Costa RA:323117725
